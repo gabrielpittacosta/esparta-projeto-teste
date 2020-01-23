@@ -2,6 +2,7 @@
 Projeto para teste seletivo Esparta
 
 Escopo do projeto:
+# markdown
   -Usuário possui uma página para vizualizar suas tarefas em listas de tarefas finalizadas e não finalizadas
   -Usuário pode criar uma nova tarefa com nome e descrição;
   -Usuário pode finalizar a tarefa e escolher a sua data de finalização;
