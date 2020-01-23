@@ -7,7 +7,7 @@ Escopo do projeto:
   <li>Usuário pode criar uma nova tarefa com nome e descrição;</li>
   <li>Usuário pode finalizar a tarefa e escolher a sua data de finalização;</li>
   <li>Usuário pode excluir tarefa;</li>
-  <li>Usuário por aterar os dados da tarefa;<li>
+  <li>Usuário por aterar os dados da tarefa;</li>
 </ul>
 Como acessar a lista de tarefas:
   - http://localhost:8080/esparta-projeto-teste/tarefa?acao=listaTarefas
