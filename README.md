@@ -10,6 +10,8 @@ Escopo do projeto:
   <li>Usuário por aterar os dados da tarefa;</li>
 </ul>
 Como acessar a lista de tarefas:
-  - http://localhost:8080/esparta-projeto-teste/tarefa?acao=listaTarefas
+<ul>
+  <li>http://localhost:8080/esparta-projeto-teste/tarefa?acao=listaTarefas</li>
+</ul>
   
 Projeto feito usando Java, Tomcat e visando a arquitetura MVC;
